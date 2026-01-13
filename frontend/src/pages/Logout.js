@@ -12,5 +12,5 @@ export default function Logout() {
     navigate("/");
   }, [navigate]);
 
-  return null; // no UI needed
+  return null;
 }
